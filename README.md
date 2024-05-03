@@ -38,7 +38,7 @@ O Desafio IT Works é uma aplicação web que fornece uma plataforma para gerenc
 2. Navegue até o diretório do meu projeto:
 
 ```bash
-  cd Desafio_IT_Works
+  cd DesafioITWorks
 
 ```
 
